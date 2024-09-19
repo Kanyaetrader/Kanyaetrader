@@ -1,0 +1,6 @@
+-     Run google server...
+- identify Google code
+- once Code identified
+-     copy Google code 
+- if Code not identified
+- quit
